@@ -29,8 +29,8 @@ module.exports = {
           {
             loader: 'sqip-loader',
             options: {
-			  numberOfPrimitives: 20
-			}
+	      numberOfPrimitives: 20
+	    }
           }
         ]
       }
@@ -51,8 +51,8 @@ module.exports = {
           {
             loader: 'sqip-loader',
             options: {
-			  numberOfPrimitives: 20
-			}
+	      numberOfPrimitives: 20
+	    }
           },
           {
             loader: 'url-loader',
