@@ -1,0 +1,12 @@
+{
+  "type": "object",
+  "properties": {
+    "numberOfPrimitives": {
+      "type": ["string", "number"]
+    },
+    "skipPreviewIfBase64": {
+      "type": "boolean"
+    }
+  },
+  "additionalProperties": true
+}
