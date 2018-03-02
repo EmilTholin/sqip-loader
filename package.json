@@ -11,8 +11,8 @@
   "repository": "EmilTholin/sqip-loader",
   "dependencies": {
     "loader-utils": "^1.1.0",
-    "schema-utils": "^0.3.0",
-    "sqip": "^0.2.1"
+    "schema-utils": "^0.4.5",
+    "sqip": "^0.3.2"
   },
   "peerDependencies": {
     "file-loader": "*"
