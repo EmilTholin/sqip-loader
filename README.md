@@ -17,10 +17,10 @@ npm install --save-dev sqip-loader
 
 ## Usage
 
-The `sqip-loader` loads your image and exports the url of the image as `src` and the image/svg+xml URL-encoded data as `preview`.
+The `sqip-loader` loads your image and exports the url of the image as `src` and the image/svg+xml URL-encoded data as `preview`. Additional `dimensions` object contains width, height and the type of imported image.
 
 ```js
-import { src, preview } from './image.png';
+import { src, preview, dimensions } from './image.png';
 ```
 
 **webpack.config.js**
