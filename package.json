@@ -1,6 +1,6 @@
 {
   "name": "sqip-loader",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "Loads images and exports tiny SQIP previews as image/svg+xml URL-encoded data",
   "main": "lib",
   "directories": {
