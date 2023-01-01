@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": "EmilTholin/sqip-loader",
   "dependencies": {
-    "loader-utils": "^1.2.3",
+    "loader-utils": "^3.2.1",
     "schema-utils": "^2.5.0",
     "sqip": "^0.3.3"
   },
